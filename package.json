@@ -1,0 +1,23 @@
+{
+	"name": "SpacePortal",
+	"date": "2017.05.01",
+	"version": "1.0.0",
+	"description": "SpacePortal",
+	"author": {
+		"name": "viziter"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://portal.ottspace.com"
+	},
+	"options": [],
+	"config": {
+		"type": "app",
+		"category": "apps",
+		"name": "SpacePortal",
+		"legacy": true,
+		"description": "",
+		"backgroundColor": "#292f37",
+		"icons": "icons"
+	}
+}
